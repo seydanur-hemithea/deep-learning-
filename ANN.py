@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 28 14:48:09 2025
 
-@author: asus
+@author: SEYDA NUR
 """
 #veri setinin hazırlanması
 from keras.datasets import mnist#mnist load
