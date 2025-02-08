@@ -94,7 +94,7 @@ def compute_ssim(original,reconstructed):
     """
     original=original.reshape(28,28)
     reconstructed=reconstructed.reshape(28,28)
-    return ssim(original.reconstructed,data_range=-1)
+    return ssim(original,reconstructed,data_range=-1)
 #veri seti icin ssim hesapla
 ssim_score=[]
 #iik 100 tanesini hesaplayalim
